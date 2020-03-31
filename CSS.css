@@ -1,0 +1,78 @@
+    .nav {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        text-decoration-line: none;
+    }
+    
+    .nav div {
+        width: 40px;
+        font-size: 10px;
+    }
+    
+    .image {
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    
+    .image div {
+        padding-top: 109px;
+    }
+    
+    .loupe {
+        display: flex;
+        align-items: center;
+    }
+    
+    .recherche {
+        border: 0mm white;
+        width: 300px;
+    }
+    
+    .barre {
+        border: solid;
+        border-width: 1px 1px;
+        border-radius: 40px;
+        border-color: gainsboro;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        margin: 0 auto;
+        width: 350px;
+    }
+    
+    .form {
+        display: flex;
+        padding-top: 18px;
+        width: 350px;
+        justify-content: center;
+        margin: 0 auto;
+    }
+    
+    .form1 {
+        border: 0;
+        line-height: 2.5;
+        padding: 0 20px;
+        font-size: 20px;
+        text-align: center;
+        color: gainsboro;
+        border-radius: 50px;
+        text-size-adjust: 5px;
+    }
+    
+    .form2 {
+        border: 0;
+        line-height: 2.5;
+        padding: 0 20px;
+        font-size: 20px;
+        text-align: center;
+        color: gainsboro;
+        border-radius: 50px;
+        text-size-adjust: 5px;
+    }
+    
+    .centre {
+        text-align: center;
+        font-size: 10px;
+    }
